@@ -1,1 +1,1 @@
-rabbit mq excange types tutorials with using .net8
+RabbitMQ exchange types tutorials with using .net8
